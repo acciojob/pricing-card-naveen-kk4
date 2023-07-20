@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+.main{
+	text-align:center;
+	width:380px;
+	height:590px;
+	background-color:rgb(241,241,241);
+	
+box-shadow:-4px 5px 10px gray;
+margin:auto;
+	
+}
+img{
+	
+	width:300px;
+	padding-top:40px;
+	}
+h1{
+	font-size:40px;
+}
+p{
+	font-size:20px;
+}
+button{
+	font-size:20px;
+	
+	background-color:rgb(254,98,90);
+	border:none;
+	color:white;
+	border-radius:10px;
+	padding:10px;
+}
